@@ -1,5 +1,4 @@
 # diegogoncalves
-repositório momentâneo 
 <div align="center">
   <img height="0" src=""  />
 </div>
@@ -24,15 +23,15 @@ repositório momentâneo
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  Sobre mim</h3>
 
 ###
 
-<p align="left">Sou de São Paulo - SP.<br><br>🔭 Estou trabalhando como Analista de Dados.<br>📚 Atualmente faço graduação no SENAC de Gestão TI e estou cursando Banco de Dados e SQL.<br>⚡E no meu tempo livre eu ...</p>
+<p align="left">Sou de São Paulo - SP.<br>Tenho 23 anos.<br>Sou apaixonado por pessoas, tecnologias e inovações.<br><br>🔭 Trabalho como freelancer.<br>📚 Atualmente faço graduação no SENAC de Gestão da Tecnologia da Informação, tenhos conhecimentos sólidos sobre Banco de Dados e SQL, Infraestrutura e estou aprendendo Python com objetivo para ML, Análise de Dados e Data Science. <br>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Linguagens e Ferramentas</h3>
 
 ###
 
@@ -46,6 +45,8 @@ repositório momentâneo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="40" alt="postgresql logo"  />
+</div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="40" alt="python logo"  />
 </div>
 
 ###
