@@ -1,9 +1,12 @@
-# diegogoncalves
 <div align="center">
   <img height="0" src=""  />
 </div>
 
 ###
+
+<h2 align="center">Olá! Eu sou o Diego Gonçalves! 🤝 <br></h2>
+
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/diegogoncallves/" target="_blank">
@@ -19,15 +22,11 @@
 
 ###
 
-<h2 align="center">Olá, seja bem-vindo(a). 👋</h2>
+<h3 align="left"> Sobre mim 👩‍💻</h3>
 
 ###
 
-<h3 align="left">👩‍💻  Sobre mim</h3>
-
-###
-
-<p align="left">Sou de São Paulo - SP.<br>Tenho 23 anos.<br>Sou apaixonado por pessoas, tecnologias e inovações.<br><br>🔭 Trabalho como freelancer.<br>📚 Atualmente faço graduação no SENAC de Gestão da Tecnologia da Informação, tenhos conhecimentos sólidos sobre Banco de Dados e SQL, Infraestrutura e estou aprendendo Python com objetivo para ML, Análise de Dados e Data Science. <br>
+<p align="left"> • Sou de São Paulo - SP.<br> • Tenho 23 anos.<br> • Apaixonado por pessoas, tecnologias e inovações.<br><br>Atualmente faço graduação no SENAC de Gestão da Tecnologia da Informação, tenhos conhecimentos sólidos sobre Banco de Dados e SQL, Infraestrutura e estou aprendendo Python com objetivo para ML, Análise de Dados e Data Science. 🎓 <br>
 
 ###
 
@@ -42,15 +41,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="40" alt="postgresql logo"  />
-</div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="40" alt="python logo"  />
-</div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws"  />
+   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure
+/azure-original.svg" height="40" alt="azure"  />
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
 
 ###
